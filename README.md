@@ -14,7 +14,9 @@ A second part of our motion research was to search for a balance to bring both a
 ###### Art installation
 
 We are looking to further develop our design in order to implement an idea of replaceable data input and to further develop a large immersive art installation in which visitors can experience the results of human action on the ecosystem through motion design and music.
-In this stage we are presenting a series of short films which show you a result of of our particular experiment and we allow the public to download the project as a Touchdesigner file. We encourage designers to further explore our findings.
+In this stage we are presenting a series of short films which show you a result of of our particular experiment and we allow the public to download the project as a Touchdesigner file. We encourage designers to further explore our findings. See the videos through this link:
+https://prinsen.studio/portfolio/reactive-science-design/
+
 
 ###### Download
 
